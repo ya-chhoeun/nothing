@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.card{
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.btn-teal{
+    background-color: teal;
+    color: white;
+}
+.btn-orange{
+    background-color: orange;
+    color: white;
+}
+.btn-purple{
+    background-color: purple;
+    color: white;
+}
+.btn-teal:hover{
+    background-color: pink;
+
+}
+.btn-orange:hover{
+    background-color: rgb(59, 239, 59);
+}
+.btn-purple:hover{
+    background-color: tomato;
+}
